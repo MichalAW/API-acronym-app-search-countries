@@ -1,5 +1,5 @@
 {
-  "name": "16.6.API-acronym",
+  "name": "API-acronym",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -21,15 +21,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MichalAW/16.6.API-acronym.git"
+    "url": "https://github.com/MichalAW/API-acronym.git"
   },
   "keywords": [],
   "author": "MichalAW michal.wanta@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MichalAW/16.6.API-acronym/issues"
+    "url": "https://github.com/MichalAW/API-acronym/issues"
   },
-  "homepage": "https://github.com/MichalAW/16.6.API-acronym#readme",
+  "homepage": "https://github.com/MichalAW/API-acronym#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.26.3",
